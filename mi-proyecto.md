@@ -6,3 +6,6 @@ Este es mi primer proyecto usando Git
 
 ## última actualización 
 Editando desde GitHub web interface 
+
+## Informacíon del proyecto
+Versión desarrollada en rama feature 
