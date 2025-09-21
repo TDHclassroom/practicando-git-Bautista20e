@@ -7,5 +7,5 @@ Este es mi primer proyecto usando Git
 ## última actualización 
 Editando desde GitHub web interface
 
-## Informacion del proyecto
+## Información del proyecto
 Versión combinada de ambas ramas 
